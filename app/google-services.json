@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1054622253078",
+    "firebase_url": "https://accountsigninfirebasre.firebaseio.com",
+    "project_id": "accountsigninfirebasre",
+    "storage_bucket": "accountsigninfirebasre.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054622253078:android:35210e303ab41c187d3537",
+        "android_client_info": {
+          "package_name": "com.odukabdulbasit.gogleacountsigninfireaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054622253078-1s5ujedip49goem4rjqutv8i3p2lbja6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCViW53KK3dow1HnZtnMAMhD_1MKATmaOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054622253078-1s5ujedip49goem4rjqutv8i3p2lbja6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
