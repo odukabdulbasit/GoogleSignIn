@@ -1,1 +1,3 @@
-/build
+git filter-branch --force --index-filter \
+  'git rm --cached --ignore-unmatch google-services' \
+  --prune-empty --tag-name-filter cat -- --all
